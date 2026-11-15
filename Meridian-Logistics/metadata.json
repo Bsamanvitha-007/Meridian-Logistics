@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Logistics Cloud — Autonomous Dispatch & Operations",
+  "description": "Enterprise mission control platform uniting capital allocation, avionics hardware verification, warehouse robot staging, and multi-hub air cargo dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
